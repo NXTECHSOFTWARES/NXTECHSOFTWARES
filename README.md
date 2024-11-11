@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Xolani Nxumalo, @NXTECHSOFTWARES Founder
-- 👀 I’m interested in UI Design and Innovative ideas.
-- 🌱 I’m currently learning Flutter as I think it the best tool for me to develop my App Ideas for now, but In the future I'm planning in learning React also.
-- 💞️ I’m looking to collaborate on any good innovative idea that involve either web dev or mobile apps including UI Design or collaburations on coming up with cool unique new features for whatever project.
-- 📫 You can reah me either on LinkedIn or email - xolanimsizinxumalo@gmail.com
+👋 Hi, I’m Xolani Nxumalo, Founder of @NXTECHSOFTWARES.
+👀 I’m passionate about UI Design and innovative ideas.
+🌱 Currently, I’m learning Flutter, as I believe it’s the best tool for developing my app ideas right now. In the future, I plan to dive into React as well.
+💞️ I’m open to collaborating on innovative projects in web or mobile development, especially those involving UI design or brainstorming unique features.
+📫 You can reach me on LinkedIn or via email at xolanimsizinxumalo@gmail.com.
 
 <!---
 NXTECHSOFTWARES/NXTECHSOFTWARES is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
